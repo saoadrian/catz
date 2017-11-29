@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="800mm"
+   height="600mm"
+   viewBox="0 0 2834.648 2125.986"
+   id="svg2"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="electronic_case_uvg2.svg">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs30">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4632"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1544.8746"
+     inkscape:cy="1174.3123"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <!-- Front-->
+  <!-- Back-->
+  <!-- Left-->
+  <!-- Right-->
+  <!-- Top-->
+  <!-- Bottom-->
+  <g
+     id="g4949"
+     transform="translate(-706.44235,11.898065)" />
+  <g
+     id="g4570" />
+  <g
+     transform="translate(27.623571,7.2566274)"
+     id="g16"
+     style="stroke:#ff0000;stroke-width:0.17716549;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <polygon
+       style="fill:none;stroke:#ff0000;stroke-width:0.17716549;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       points="507.57916,21.968522 507.57916,0 580.39418,0 580.39418,100.09851 602.3627,100.09851 602.3627,200.19701 580.39418,200.19701 580.39418,274.60652 602.3627,274.60652 602.3627,349.01603 580.39418,349.01603 580.39418,423.42554 602.3627,423.42554 602.3627,497.83506 580.39418,497.83506 580.39418,572.24456 602.3627,572.24456 602.3627,646.65407 580.39418,646.65407 580.39418,721.06358 602.3627,721.06358 602.3627,795.47309 580.39418,795.47309 580.39418,869.8826 602.3627,869.8826 602.3627,944.29211 580.39418,944.29211 580.39418,1018.7016 602.3627,1018.7016 602.3627,1093.1111 580.39418,1093.1111 580.39418,1167.5206 602.3627,1167.5206 602.3627,1241.9302 580.39418,1241.9302 580.39418,1316.3397 602.3627,1316.3397 602.3627,1390.7492 580.39418,1390.7492 580.39418,1465.1587 602.3627,1465.1587 602.3627,1565.2572 580.39418,1565.2572 580.39418,1665.3557 507.57916,1665.3557 507.57916,1643.3872 412.79561,1643.3872 412.79561,1665.3557 338.3861,1665.3557 338.3861,1643.3872 263.97659,1643.3872 263.97659,1665.3557 189.56708,1665.3557 189.56708,1643.3872 94.783542,1643.3872 94.783542,1665.3557 21.968522,1665.3557 21.968522,1565.2572 0,1565.2572 0,1465.1587 21.968522,1465.1587 21.968522,1390.7492 0,1390.7492 0,1316.3397 21.968522,1316.3397 21.968522,1241.9302 0,1241.9302 0,1167.5206 21.968522,1167.5206 21.968522,1093.1111 0,1093.1111 0,1018.7016 21.968522,1018.7016 21.968522,944.29211 0,944.29211 0,869.8826 21.968522,869.8826 21.968522,795.47309 0,795.47309 0,721.06358 21.968522,721.06358 21.968522,646.65407 0,646.65407 0,572.24456 21.968522,572.24456 21.968522,497.83506 0,497.83506 0,423.42554 21.968522,423.42554 21.968522,349.01603 0,349.01603 0,274.60652 21.968522,274.60652 21.968522,200.19701 0,200.19701 0,100.09851 21.968522,100.09851 21.968522,0 94.783542,0 94.783542,21.968522 189.56708,21.968522 189.56708,0 263.97659,0 263.97659,21.968522 338.3861,21.968522 338.3861,0 412.79561,0 412.79561,21.968522 "
+       id="polygon18" />
+  </g>
+</svg>
